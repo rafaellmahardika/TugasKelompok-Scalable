@@ -1,0 +1,19 @@
+# Local configuration / secrets
+config.php
+.env
+
+# SSH / private keys
+*.pem
+*.key
+
+# Composer dependencies
+vendor/
+
+# Lambda dependencies / generated package
+lambda/node_modules/
+lambda/function.zip
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db

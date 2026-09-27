@@ -1,0 +1,10 @@
+{
+  "name": "puisi-image-lambda",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.0.0",
+    "jimp": "0.22.12"
+  }
+}

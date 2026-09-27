@@ -1,0 +1,7 @@
+{
+  "name": "tugas-scalable/puisi-backend",
+  "description": "PHP backend untuk aplikasi puisi scalable",
+  "require": {
+    "aws/aws-sdk-php": "^3.0"
+  }
+}
